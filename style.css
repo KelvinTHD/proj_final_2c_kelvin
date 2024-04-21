@@ -1,0 +1,37 @@
+body {background-color: black;
+border-color: white;
+border-width: 4px;
+border-style: groove;}
+#Karate {border-width: 4px;
+border-color: whitesmoke ;
+border-style: groove;
+}
+#Karate {margin-left: 27%;
+}
+h1 {margin-left: 40%;
+ color: white;
+}
+#Karate {width: 45%;
+}
+#Shotokan {width: 38%;
+margin-left: 31%;
+border-width: 2px;
+border-color: red;
+border-style: solid;}
+h2 {color: white;
+ margin-left: 43%;}
+h3 {color: white;
+margin-left: 45%;}
+#Wado-ryu {width: 45%;
+margin-left: 27%;
+border-width: 2px;
+border-color: purple;
+border-style: groove;}
+h4 {color: white;
+margin-left: 45%;
+font-size: large;}
+#olímpico {width: 45%;
+margin-left: 27%;
+border-width: 2px;
+border-color: brown;
+border-style: solid;}
